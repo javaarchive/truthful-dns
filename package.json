@@ -11,6 +11,7 @@
   "author": "",
   "license": "GPL",
   "dependencies": {
-    "dns2": "^2.0.1"
+    "dns2": "^2.0.1",
+    "express": "4.17.1"
   }
 }
